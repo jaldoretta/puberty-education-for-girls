@@ -1,0 +1,8 @@
+name: "Puberty Education for Girls"
+description: "Fostering confidence and body literacy through fun, engaging, and informative classes in Austin, Texas."
+
+url: "http://localhost:4000"
+
+encoding: "utf-8"
+markdown: rdiscount
+permalink: pretty
