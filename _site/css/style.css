@@ -167,6 +167,10 @@ strong {
 	background-color: white;
 }
 
+#logoSizing {
+	height: 50px;
+}
+
 #logo {
 	padding-top: 15px;
 	padding-bottom: 15px;
