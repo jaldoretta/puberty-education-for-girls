@@ -388,6 +388,10 @@ input {
 }
 
 @media screen and (max-width: 601px) {
+
+	#headerImage {
+		height: 400px;
+	}
 	
 	#logo, #nav {
 		float: none;
@@ -412,7 +416,7 @@ input {
 	}
 
 	h1 {
-		font-size: 28px;
+		font-size: 26px;
 	}
 
 	.aboutInfo {
