@@ -248,7 +248,7 @@ strong {
 
 #confidence, #fear, #knowledge {
 	display: inline-block;
-	width: 251px;
+	width: 252px;
 	height: auto;
 	background-color: white;
 	text-align: center;
@@ -361,7 +361,7 @@ input {
 	}
 }
 
-@media screen and (max-width: 936px) {
+@media screen and (max-width: 941px) {
 	
 	#intro {
 		width: 85%;
