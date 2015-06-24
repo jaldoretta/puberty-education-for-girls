@@ -178,6 +178,10 @@ strong {
 	float: left;
 }
 
+#logoSizing {
+	height: 50px;
+}
+
 #nav {
 	list-style-type: none;
 	float: right;
